@@ -66,6 +66,6 @@ Sourcetree是一款开源的Git客户端，功能强大且易于使用。本文�
 
 ## 4. 参考资料
 
-- [Sourcetree 使用手顺](https://www.cnblogs.com/protosoft/p/11286592.html)
+- [Sourcetree 使用手顺](https://github.com/moerbumo/kilig/blob/ef3ea1bebfeec50d84e6b03febc783c101ef27fb/SourceTree%E4%BD%BF%E7%94%A8%E6%89%8B%E9%A1%BA.md)
 - [Sourcetree 常用操作](https://blog.csdn.net/GM_115/article/details/133188369)
 - [git 版本管理](https://blog.csdn.net/qq_52748334/article/details/137019947)
